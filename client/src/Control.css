@@ -1,0 +1,19 @@
+.indicator {
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+}
+
+.form_input {
+  margin-top: 25px;
+}
+.form_gpio {
+  display: flex;
+  justify-content: space-between;
+}
+
+.button_submit {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
